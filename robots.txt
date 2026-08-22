@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esapcorp.github.io/notes-kctid1/sitemap.xml
